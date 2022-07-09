@@ -17,7 +17,7 @@ Update the HTML:
 
 X Place the existing `h1` inside a `header` element. 
 X Add an `h2` element into the `header` that says `YOUR NAME's Record Shop`.
-- Place the existing `p` inside a `main` element.
+X Place the existing `p` inside a `main` element.
 
 Add a Stylesheet:
 
@@ -25,11 +25,11 @@ X Create a `stylesheet.css` file and source it into the HTML file.
 X Give the `header` a dark background color and choose a light  color for the text.
 X Center the text in the `header`.
 X Give the `main` a light grey background color.
-- Look up the CSS `background-image` property to learn how to use the provided `record.png` as the background image on your page with a relative path.
-- Look up CSS `background-repeat` to learn how to fill the body of the page with a repeating image.
-- Look up CSS `margin` and `padding`. 
-  - Give the `body` a margin of `0`. (This removes the whitespace around the edges of the page.) 
-  - Give the `main` padding of `1em`. (Curious about `em`? Look up CSS units.)
+X Look up the CSS `background-image` property to learn how to use the provided `record.png` as the background image on your page with a relative path.
+X Look up CSS `background-repeat` to learn how to fill the body of the page with a repeating image.
+X Look up CSS `margin` and `padding`. 
+  X Give the `body` a margin of `0`. (This removes the whitespace around the edges of the page.) 
+  X Give the `main` padding of `1em`. (Curious about `em`? Look up CSS units.)
 
 Here's an example of what the style could look like:
 <img src="./example.png">

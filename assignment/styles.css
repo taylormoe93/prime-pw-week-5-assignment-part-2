@@ -9,6 +9,12 @@ header {
 
 main {
 	background: lightgrey;
-	background-image: url('record.png');
-	background-repeat: repeat-y;
+	padding: 1em;
 }
+
+body {
+	margin: 0px;
+    background-image: url('record.png');
+	background-repeat: repeat;
+}
+
