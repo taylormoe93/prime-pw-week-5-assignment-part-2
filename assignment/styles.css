@@ -1,0 +1,14 @@
+header {
+	background: #121212;
+	color: #ffffff;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+main {
+	background: lightgrey;
+	background-image: url('record.png');
+	background-repeat: repeat-y;
+}

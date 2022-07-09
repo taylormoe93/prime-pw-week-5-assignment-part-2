@@ -22,9 +22,9 @@ X Add an `h2` element into the `header` that says `YOUR NAME's Record Shop`.
 Add a Stylesheet:
 
 X Create a `stylesheet.css` file and source it into the HTML file.
-- Give the `header` a dark background color and choose a light  color for the text.
-- Center the text in the `header`.
-- Give the `main` a light grey background color.
+X Give the `header` a dark background color and choose a light  color for the text.
+X Center the text in the `header`.
+X Give the `main` a light grey background color.
 - Look up the CSS `background-image` property to learn how to use the provided `record.png` as the background image on your page with a relative path.
 - Look up CSS `background-repeat` to learn how to fill the body of the page with a repeating image.
 - Look up CSS `margin` and `padding`. 
